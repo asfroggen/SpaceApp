@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">SpaceApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="hint_name">Name</string>
+    <string name="start">Start</string>
+    <string name="understanding">Understanding Earth: </string>
+    <string name="our_ocean">Our Ocean</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_our_ocean">Understanding Earth: Our Ocean</string>
+    <string name="large_text">
+        The oceans.\n\n
+    \nThere is only one place where the beauty of the Earth could be almost completely observed, the Space. But, you don\'t have to travel into space to realize how much water is on our planet.\n
+    \nAbout 70% of the earthly surface is made up of sea oceans, being home to a large number of living beings, however, thanks to its vastness it is known that there is greater knowledge about other places in space than the world that exists within our oceans.\n
+    \nWe all know how salty the seas and oceans of our planet are, but not many know why. The reason oceans are so salty is due to various processes that occurred throughout Earth\'s history, such as the erosion of rocks, the evaporation of water or the formation of sea ice, which over time have altered the chemical properties of the ocean, making it salty.\n
+    \nAn interesting effect is what causes the solar radiation that reaches our planet,  because the way it reaches different parts of the terraqueo balloon causes a difference in temperatures between the water at the poles, which is colder and the water at the equator which is the hottest on the planet.\n
+    \nThis imbalance of temperatures is the one that gives impetus to atmospheric and oceanic circulation, although forces such as wind, tides and Earth\'s rotation also influence ocean circulation.\n
+
+        \n\nImportance and changes of oceans.\n\n
+
+    \nThe ocean on earth is a huge source of resources for humans, from marine food and medicine to energy source probe or storm protection, for this reason it is necessary to keep in mind its value and take into account that in the absence of oceans, our planet would be completely uninhabitable.\n
+    \nHowever, for many years the planet has gradually increased its temperature, this at the root of the warming that has manifested itself and accelerating since the 1970s.\n
+    \nThe oceans have absorbed a lot of this heat and as a result, great changes have been observed that harm life on the planet; a decrease of some marine species such as phytoplankton has been observed, in addition to the melting of the ice from the poles that has increased rapidly over the past decades. According to the satellite observations of the current ones, a decrease in the area of the poles covered by sea ice has been found.\n
+    \nCURIOUS FACT: phytoplankton is the basis of the aquatic food chain and its behavior is like that of terrestrial plants;  it feeds on carbon dioxide producing by means of photosynthesis, oxygen. This oxygen is part of half the oxygen we breathe daily.\n
+    \nThanks to these remote sensing satellites, specialized scientists have the opportunity to study the characteristics of the ocean as well as its changes in order to predict the impact of environmental changes on the ocean in the future and improve life within the planet.\n
+    \nNASA, as an example, has observed terrestrial oceans from space for more than 38 years, beginning with the launch of the first civil oceanographic satellite, SEASAT, on January 28, 1978.\n
+    \nToday there are a lot of aerial and satellite missions observing the ocean, measuring a lot of parameters such as: topography of the ocean surface, currents, waves, phytoplankton content, expanse of seafarer\'s ice, salinity of the sea surface, among others. NASA in conjunction with partners has worked on several of these missions.\n
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="submit">Submit</string>
+    <string name="score">1/8</string>
+    <string name="pregunta1">What percentage of the Earth\'s surface are occupied by oceans?</string>
+    <string name="opcion1_1">Aproximatly 45%</string>
+    <string name="opcion1_2">Aproximatly 80%</string>
+    <string name="opcion1_3">Aproximatly 70%</string>
+    <string name="opcion1_4">Aproximatly 99%</string>
+    <string name="pregunta2">What is the reason the ocean waters are salty?</string>
+    <string name="opcion2_1">The weathering of rocks</string>
+    <string name="opcion2_2">Evaporation of ocean water</string>
+    <string name="opcion2_3">The formation of sea ice</string>
+    <string name="opcion2_4">All of the above</string>
+    <string name="pregunta3">Which part of the planet its waters are most likely to have a higher temperature?</string>
+    <string name="opcion3_1">The areas closest to the poles</string>
+    <string name="opcion3_2">The areas closest to the equator </string>
+    <string name="opcion3_3">The areas closest to the continents</string>
+    <string name="opcion3_4">The areas farther to the continents </string>
+    <string name="pregunta4">Select an event caused by over-warming of the oceans.</string>
+    <string name="opcion4_1">Change of color of the sea water</string>
+    <string name="opcion4_2">A decrease in some marine species</string>
+    <string name="opcion4_3">More fishes in the sea</string>
+    <string name="opcion4_4">Warmer climates</string>
+    <string name="pregunta5">Which maritime organism is the creator of half the oxygen we breathe daily?</string>
+    <string name="opcion5_1">An Octopus</string>
+    <string name="opcion5_2">A star of the sea</string>
+    <string name="opcion5_3">The phytoplankton </string>
+    <string name="opcion5_4">Whales</string>
+    <string name="pregunta6">What are two of the factors that give rise to oceanic circulation?</string>
+    <string name="opcion6_1">The difference in water temperatures around the earth and the wind</string>
+    <string name="opcion6_2">Visitors to the beaches and animals </string>
+    <string name="opcion6_3">Jupiter\'s movement and weather</string>
+    <string name="opcion6_4">The reproduction of marine species and the movement of the ships</string>
+    <string name="pregunta7">What are some of the resources we can get from the ocean?</string>
+    <string name="opcion7_1">Vegetables and farmfood</string>
+    <string name="opcion7_2">Seafood, medicine and energy sources</string>
+    <string name="opcion7_3">Bodycreams and storm protection</string>
+    <string name="opcion7_4">Water to drink and Seafood</string>
+    <string name="pregunta8">What is the name of the first oceanographic satellite sent by NASA?</string>
+    <string name="opcion8_1">SPUTNIK</string>
+    <string name="opcion8_2">SEASAT</string>
+    <string name="opcion8_3">EXPLORER</string>
+    <string name="opcion8_4">OSUMI</string>
+    <string name="result">Result</string>
+    <string name="name">Name</string>
+    <string name="puntaje">Your score is 8 out of 8</string>
+    <string name="result_desc">Congratulations you are a head of NASA!</string>
+    <string name="finish">Finish</string>
+    <string name="curius">CURIOUS FACT: Phytoplankton is the basis of the aquatic food chain and its behavior is like that of terrestrial plants;  it feeds on carbon dioxide producing by means of photosynthesis, oxygen.\n\nThis oxygen is part of half the oxygen we breathe daily.</string>
+</resources>
